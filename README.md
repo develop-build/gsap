@@ -5,5 +5,4 @@ This repository is a playground for learning and building animations with GSAP (
 # Projects (growing list)
 
 1. Fade-in-img — https://fade-in-img.netlify.app/
-
--
+2. Sequential-fade-in-gallery - https://sequential-fadein-gallery.netlify.app/

@@ -1,9 +1,10 @@
-import FadeInImg from './components/FadeInImg';
+import SeqFadeImg from './components/SeqFadeImg';
 
 const App = () => {
   return (
     <>
-      <FadeInImg />
+      {/* <FadeInImg /> */}
+      <SeqFadeImg />
     </>
   );
 };
