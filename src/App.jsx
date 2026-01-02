@@ -1,10 +1,13 @@
-import SeqFadeImg from './components/SeqFadeImg';
+import GsapFrom from './pages/GsapFrom';
+import GsapFromTo from './pages/GsapFromTo';
+import GsapTo from './pages/GsapTo';
 
 const App = () => {
   return (
     <>
-      {/* <FadeInImg /> */}
-      <SeqFadeImg />
+      <GsapTo />
+      <GsapFrom />
+      <GsapFromTo />
     </>
   );
 };
